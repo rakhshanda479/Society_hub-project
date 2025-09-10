@@ -64,14 +64,6 @@ Through this project, our team gained hands-on experience in:
 * Applying Agile and Waterfall practices in different phases of the project.
 
 ---
-# Screenshots    
-[Trello Board](trello.png)  
-[jira ](backlog.png)  
-![jira ](jira.png)  
-![jira ](calender.png)  
-![excel](resource sheet.png)  
-
-
 # Status
 This project was completed as part of the FSPM course and served as a comprehensive case study in software project management. Future work could include full-stack implementation with React.js, Django/Flask, and cloud deployment.
 
